@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js_dependencies_intro1",
+  "version": "1.0.0",
+  "repository": "https://github.com/ekaterinabudon/js_dependencies_intro1",
+  "main": "./src/index.js",
+  "license": "MIT"
+}
